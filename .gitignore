@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+
+# Data
+data/raw/*.csv
